@@ -1,0 +1,91 @@
+#page-mod-scratchpad-view .feedbackbox {
+    width: 75%;
+    border-collapse: separate;
+}
+#page-mod-scratchpad-view .entrycontent {
+    padding: 3px;
+}
+#page-mod-scratchpad-view .picture {
+    width: 35px;
+}
+#page-mod-scratchpad-view .info {
+    margin-bottom: 5px;
+    text-align: right;
+}
+#page-mod-scratchpad-view .scratchpadstart,
+#page-mod-scratchpad-report .feedbacksave {
+    text-align: center;
+}
+/* #page-mod-scratchpad-view .lastedit, */
+/* #page-mod-scratchpad-view .editend { */
+    /* font-size: 0.7em; */
+    /* margin: 5px; */
+    /* text-align: center; */
+/* } */
+#page-mod-scratchpad-view .author {
+    font-size: 1em;
+    font-weight: bold;
+}
+#page-mod-scratchpad-view .time {
+    font-size: 0.7em;
+    font-style: italic;
+}
+#page-mod-scratchpad-view .grade {
+    font-weight: bold;
+    font-style: italic;
+    text-align: right;
+}
+
+#page-mod-scratchpad-index .cell {
+    font-size: 0.8em;
+}
+#page-mod-scratchpad-view .feedbackbox .left,
+#page-mod-scratchpad-view .feedbackbox .entryheader {
+    background-color: #ddd;
+}
+
+#page-mod-scratchpad-view .feedbackbox {
+    -moz-border-radius-bottomleft: 15px;
+    -moz-border-radius-bottomright: 15px;
+    border-spacing: 0;
+    margin: 0 auto;
+}
+#page-mod-scratchpad-view .feedbackbox .side {
+    -moz-border-radius-bottomleft: 15px;
+}
+#page-mod-scratchpad-view .feedbackbox .entrycontent {
+    -moz-border-radius-bottomright: 15px;
+}
+
+#page-mod-scratchpad-report .scratchpaduserentry {
+    border: 1px solid #dee2e6;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+#page-mod-scratchpad-report .scratchpaduserentry td {
+    padding: 10px;
+    vertical-align: top;
+    width: 100%;
+}
+#page-mod-scratchpad-report .scratchpaduserentry td.userpix {
+    width: 35px;
+}
+#page-mod-scratchpad-report .scratchpaduserentry td.userfullname {
+    white-space: nowrap;
+}
+/* #page-mod-scratchpad-report .scratchpaduserentry td .lastedit { */
+    /* font-size: 0.76em; */
+    /* margin-left: 10px; */
+/* } */
+#page-mod-scratchpad-report .mediaplugin {
+    width: auto;
+}
+#page-mod-scratchpad-view table, th, td {
+    padding: 5px;
+}
+#page-mod-scratchpad-edit table, th, td {
+    padding: 5px;
+}
+#page-mod-scratchpad-view td {
+    vertical-align: top;
+}
