@@ -11,9 +11,9 @@ Proyek ini merupakan pengembangan Learning Management System (LMS) berbasis Mood
 
 ## Fitur
 
-- [Kanban Board](#Kanban Board)
-- Completion Progress
-- Checkpoint System
+- [Kanban Board](#Kanban_Board)
+- [Completion Progres](#Completion_Progress)
+- [Checkpoint System](#Checkpoint_System)
 
 ## Plugin
 
