@@ -11,7 +11,7 @@ Proyek ini merupakan pengembangan Learning Management System (LMS) berbasis Mood
 
 ## Fitur
 
-- Kanban Board
+- [Kanban Board](#Kanban Board)
 - Completion Progress
 - Checkpoint System
 
@@ -23,11 +23,7 @@ https://drive.google.com/file/d/1t7lAVnpL67BElxJJsQxHG8SDoitCMe1O/view?usp=shari
 Completion Progress
 https://drive.google.com/file/d/19ujFzJXTZ0nA2dLiSPxoZVyYlhn1Q945/view?usp=sharing
 
-## Progress Proyek
-
-Tahap Pengembangan
-
-## Author
+## Anggota Kelompok
 
 Wafa Kasyifa Al Izza, Faizal Alwalliyu Rizki, Harun Alrosyid
 
