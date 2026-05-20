@@ -1,6 +1,6 @@
 # Proyek
 
-THINK & TRACK: Implementasi Reflection Checkpoint dan Kanban Board PjBL Terintegrasi Moodle
+THINK & TRACK: Implementasi Reflection Checkpoint dan Kanban Board PjBL Terintegrasi Moodle.
 
 ## Sistem
 
